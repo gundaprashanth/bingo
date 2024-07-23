@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/gundaprashanth/bingo.git
     targetRevision: HEAD
-    path: dev
+    path: code
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
